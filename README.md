@@ -1,2 +1,2 @@
 # Estudos
-Projeto calculadora usando HTML/CSS/Javascript
+Projeto usando as linguagens HTML / CSS e Javascript para recriar uma calculadora funcional
